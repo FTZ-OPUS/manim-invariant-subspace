@@ -1,0 +1,14 @@
+# Manim 渲染中间产物（可随时删除，不要提交）
+media/
+out/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# macOS 系统杂物
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
